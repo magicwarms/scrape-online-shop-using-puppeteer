@@ -29,6 +29,9 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
+# Nodemon file
+nodemon.json
+
 # Runtime data
 pids
 *.pid
